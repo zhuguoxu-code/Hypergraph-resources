@@ -3,10 +3,16 @@
 *aaa
 ## 知识超图表示<br>
 ### 期刊论文<br>
-*aaa
+* Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
+* HGNN+: General Hypergraph Neural Networks (TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9795251)<br>
+* J. Zhang et al. A Unified Random Walk, Its Induced Laplacians and Spectral Convolutions for Deep Hypergraph Learning(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11103747)<br>
+* Y. Feng, Y. Zhang, S. Ying, S. Du and Y. Gao. Kernelized Hypergraph Neural Networks(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11063418)<br>
+* Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction (TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9903546)<br>
 ### 会议论文<br>
 * Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
 * Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
+Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, and Zhen Cui. MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
+* Zhongtian Sun, Anoushka Harit, Jongmin Yu, Jingyun Wang, and Pietro Liò. Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
 * Bilal Khan, Jia Wu, Jian Yang, and Xiaoxiao Ma. Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
 * Jiecheng Li, Xudong Luo, Guangquan Lu, and Shichao Zhang. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
 * A Survey on Hypergraph Representation Learning (ACM Computing Surveys, 2023)[**paper**](https://dl.acm.org/doi/full/10.1145/3605776)<br>
