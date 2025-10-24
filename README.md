@@ -1,6 +1,4 @@
 # Hypergraph-resources
-## 知识超图抽取<br>
-*aaa
 ## 知识超图表示<br>
 ### 期刊论文<br>
 * Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
