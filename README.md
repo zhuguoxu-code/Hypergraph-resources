@@ -37,12 +37,12 @@
 * H. Fan et al. Heterogeneous Hypergraph Variational Autoencoder for Link Prediction(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9354594)<br>
 * C. H. Nguyen and H. Mamitsuka. Learning on Hypergraphs With Sparsity(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9001176)<br>
 ### 会议论文<br>
-* Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
-* Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
-Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, and Zhen Cui. MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
-* Zhongtian Sun, Anoushka Harit, Jongmin Yu, Jingyun Wang, and Pietro Liò. Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
-* Bilal Khan, Jia Wu, Jian Yang, and Xiaoxiao Ma. Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
-* Jiecheng Li, Xudong Luo, Guangquan Lu, and Shichao Zhang. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(ACM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
+* Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
+* Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
+Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, and Zhen Cui. MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(MMHCL,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
+* Zhongtian Sun, Anoushka Harit, Jongmin Yu, Jingyun Wang, and Pietro Liò. Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
+* Bilal Khan, Jia Wu, Jian Yang, and Xiaoxiao Ma. Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(TRS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
+* Jiecheng Li, Xudong Luo, Guangquan Lu, and Shichao Zhang. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
 * Anchen Li, Bo Yang, Huan Huo, Farookh Hussain, and Guandong Xu. Hypercomplex Knowledge Graph-Aware Recommendation(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730001)<br>
 * Fangfang Li, Huihui Zhang, Wei Li, and Wei Wu. Heterogeneous Graph Embedding Made More Practical(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3729993)<br>
 *DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657699)<br>
