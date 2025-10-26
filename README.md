@@ -2,15 +2,28 @@
 ## 知识超图表示<br>
 ### 期刊论文<br>
 * Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
+* S. Mo, X. Teng, K. Wu, J. Liu and K. Yuan. A Universal Subhypergraph-Assisted Embedding Framework for Both Homogeneous and Heterogeneous Networks(TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/11045888)<br>
+* HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10845179)<br>
 * Y. Feng, S. Liu, S. Ying, S. Du, Z. Wu and Y. Gao. Self-Supervised Hypergraph Training Framework via Structure-Aware Learning(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11106277)<br>
+* Dual-View Desynchronization Hypergraph Learning for Dynamic Hyperedge Prediction (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10771713)<br>
+*J. Wang, J. Wang, D. Jin and X. Chang.Hypergraph Collaborative Filtering With Adaptive Augmentation of Graph Data for Recommendation超图协同过滤与图数据自适应增强以进行推荐(TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10877773)<br>
+* Multi-Behavior Hypergraph Contrastive Learning for Session-Based Recommendation (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10816604)<br>
 * Y. Zhang, S. Du, Y. Feng, S. Ying and Y. Gao. Reinterpreting Hypergraph Kernels: Insights Through Homomorphism Analysis(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11159289)<br>
 * HGNN+: General Hypergraph Neural Networks (TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9795251)<br>
 * J. Zhang et al. A Unified Random Walk, Its Induced Laplacians and Spectral Convolutions for Deep Hypergraph Learning(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11103747)<br>
 * Y. Feng, Y. Zhang, S. Ying, S. Du and Y. Gao. Kernelized Hypergraph Neural Networks(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11063418)<br>
 * N. Yin et al. Messages are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-Series Forecasting(TPAMI, 2024)[**paper**](https://ieeexplore.ieee.org/document/10314020)<br>
+* CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10478209)<br>
 * Y. Feng, J. Han, S. Ying and Y. Gao. Hypergraph Isomorphism Computation(TPAMI, 2024)[**paper**](https://ieeexplore.ieee.org/document/10398457)<br>
+* HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10436025)<br>
 * H. Wu, Y. Yan and M. K. -P. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges(TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9782536)<br>
+* Automatic Hypergraph Generation for Enhancing Recommendation with Sparse Optimization (TMM, 2023)[**paper**](https://ieeexplore.ieee.org/document/10336546)<br>
 * Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction (TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9903546)<br>
+* daptive Hypergraph Auto-Encoder for Relational Data Clustering (TKDE, 2023)[**paper**](https://ieeexplore.ieee.org/document/9525190)<br>
+* Self-Supervised Hypergraph Representation Learning for Sociological Analysis (TKDE, 2023)[**paper**](https://ieeexplore.ieee.org/document/10040228)<br>
+* Data Representation by Joint Hypergraph Embedding and Sparse Coding (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9141415)<br>
+* LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9099985)<br>
+* Adaptive Hypergraph Auto-Encoder for Relational Data Clustering (TKDE, 2021)[**paper**](https://ieeexplore.ieee.org/document/9525190)<br>
 * H. Fan et al. Heterogeneous Hypergraph Variational Autoencoder for Link Prediction(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9354594)<br>
 * C. H. Nguyen and H. Mamitsuka. Learning on Hypergraphs With Sparsity(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9001176)<br>
 ### 会议论文<br>
