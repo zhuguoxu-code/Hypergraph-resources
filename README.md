@@ -17,10 +17,6 @@
 * CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10478209)<br>
 * Y. Feng, J. Han, S. Ying and Y. Gao. Hypergraph Isomorphism Computation(TPAMI, 2024)[**paper**](https://ieeexplore.ieee.org/document/10398457)<br>
 * HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10436025)<br>
-* VilLain: Self-Supervised Learning on Homogeneous Hypergraphs without Features via Virtual Label Propagation(WWW,2024)[**paper**](https://dl.acm.org/doi/10.1145/3589334.3645454)<br>
-* Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement (WWW, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3589335.3651493)<br>
-* Hierarchical Structure Construction on Hypergraphs (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679765)<br>
-* Hyperedge Importance Estimation via Identity-aware Hypergraph Attention Network (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679685)<br>
 * H. Wu, Y. Yan and M. K. -P. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges(TPAMI, 2023)[**paper**](https://ieeexplore.ieee.org/document/9782536)<br>
 * HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks (WWW, 2023) [**paper**](https://dl.acm.org/doi/10.1145/3543507.3583256)<br>
 * Automatic Hypergraph Generation for Enhancing Recommendation with Sparse Optimization (TMM, 2023)[**paper**](https://ieeexplore.ieee.org/document/10336546)<br>
@@ -45,8 +41,12 @@ Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, and Zhen Cui
 * Jiecheng Li, Xudong Luo, Guangquan Lu, and Shichao Zhang. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
 * Anchen Li, Bo Yang, Huan Huo, Farookh Hussain, and Guandong Xu. Hypercomplex Knowledge Graph-Aware Recommendation(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730001)<br>
 * Fangfang Li, Huihui Zhang, Wei Li, and Wei Wu. Heterogeneous Graph Embedding Made More Practical(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3729993)<br>
+* Hierarchical Structure Construction on Hypergraphs (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679765)<br>
+* Hyperedge Importance Estimation via Identity-aware Hypergraph Attention Network (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679685)<br>
 *DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657699)<br>
 * Multi-view Mixed Attention for Contrastive Learning on Hypergraphs (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657897)<br>
+* VilLain: Self-Supervised Learning on Homogeneous Hypergraphs without Features via Virtual Label Propagation(WWW,2024)[**paper**](https://dl.acm.org/doi/10.1145/3589334.3645454)<br>
+* Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement (WWW, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3589335.3651493)<br>
 * A Survey on Hypergraph Representation Learning (ACM Computing Surveys, 2023)[**paper**](https://dl.acm.org/doi/full/10.1145/3605776)<br>
 * Hypergraph Dynamic System (ICLR, 2024)[**paper**](https://openreview.net/forum?id=NLbRvr840Q)<br>
 * HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs(ICLR, 2024)[**paper**](https://openreview.net/forum?id=DZUzOKE6og)<br>
