@@ -1,6 +1,6 @@
 # Hypergraph-resources
 ## 知识超图表示<br>
-###IEEE Xplore <br>
+### IEEE Xplore<br>
 * Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
 * S. Mo, X. Teng, K. Wu, J. Liu and K. Yuan. A Universal Subhypergraph-Assisted Embedding Framework for Both Homogeneous and Heterogeneous Networks(TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/11045888)<br>
 * HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10845179)<br>
@@ -27,6 +27,13 @@
 * Adaptive Hypergraph Auto-Encoder for Relational Data Clustering (TKDE, 2021)[**paper**](https://ieeexplore.ieee.org/document/9525190)<br>
 * H. Fan et al. Heterogeneous Hypergraph Variational Autoencoder for Link Prediction(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9354594)<br>
 * C. H. Nguyen and H. Mamitsuka. Learning on Hypergraphs With Sparsity(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9001176)<br>
+### Science Direct<br>
+* Generalised tensor-based hypergraph attention network（knowledge-based systems,2025）[**paper**](https://www.sciencedirect.com/science/article/pii/S0950705125017691)
+* 超图卷积Adaptive hybrid spatial hypergraph convolution module with data embedding optimization for stock ranking prediction(Physica A: Statistical Mechanics and its Applications，2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0378437125006983)
+* 算法、超图嵌入Multimetric hypergraph embedding for dimensionality reduction in rotor fault diagnosis（Advanced Engineering Informatics,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034625003805)
+* 超图卷积Diversified recommendation with weighted hypergraph embedding: Case study in music（2025）[**paper**](https://www.sciencedirect.com/science/article/pii/S092523122401676X)
+* 半监督超图Dual semi-supervised hypergraph regular multi-view NMF with anchor graph embedding（2024）[**paper**](https://www.sciencedirect.com/science/article/pii/S0950705124012966)
+* 超图嵌入AHFormer: Hypergraph embedding coding transformer and adaptive aggregation network for intelligent fault diagnosis under noise interference（2024）[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034624001666)
 ### ACM Digital Library<br>
 * Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
 * Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
