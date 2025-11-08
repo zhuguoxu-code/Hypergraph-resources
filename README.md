@@ -26,11 +26,12 @@
 * LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9099985)<br>
 * Adaptive Hypergraph Auto-Encoder for Relational Data Clustering (TKDE, 2021)[**paper**](https://ieeexplore.ieee.org/document/9525190)<br>
 * H. Fan et al. Heterogeneous Hypergraph Variational Autoencoder for Link Prediction(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9354594)<br>
-* C. H. Nguyen and H. Mamitsuka. Learning on Hypergraphs With Sparsity(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9001176)<br>
+* C. H. Nguyen and H. Mamitsuka. Learning on Hypergraphs With Sparsity(TPAMI, 2021)[**paper**](https://ieeexplore.ieee.org/document/9001176)<br><br>
 ### Science Direct<br>
 * 专家混合增强Enhanced recommendation with hypergraph mixture of experts(Expert Systems with Applications,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417425029483)<br>
 * 知识蒸馏RHNN-IoT: A robust IoT intrusion detection framework based on reinforced hypergraph representation learning(Future Generation Computer Systems,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0167739X25005060)<br>
 * A novel hypergraph neural network combining multi-view learning with density awareness多视图密度感知超图神经网络（MD-HGNN）-新型GNN模型(Pattern Recognition,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004352)<br>
+* Tackling higher-order relations and heterogeneity: Dynamic heterogeneous hypergraph network for spatiotemporal activity prediction(Neural Networks,2023)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003647)<br>
 * Cross-view graph contrastive learning with hypergraph对比学习(Information Fusion,2023)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253523001835)<br>
 #### 超图卷积<br>
 * Adaptive hybrid spatial hypergraph convolution module with data embedding optimization for stock ranking prediction(Physica A: Statistical Mechanics and its Applications，2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0378437125006983)<br>
@@ -52,11 +53,13 @@
 * 超图嵌入AHFormer: Hypergraph embedding coding transformer and adaptive aggregation network for intelligent fault diagnosis under noise interference（2024）[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034624001666)<br>
 * Learning higher-order features for relation prediction in knowledge hypergraph(Knowledge-Based Systems,2024)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512400145X)<br>
 * HHGNN: Hyperbolic Hypergraph Convolutional Neural Network based on variational autoencoder(Neurocomputing,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S0925231224009962)<br>
+* Higher-order knowledge-enhanced recommendation with heterogeneous hypergraph multi-attention异构超图及高阶交互(Information Sciences,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S002002552401079X)<br>
 * Dynamic weighted hypergraph convolutional network for brain functional connectome analysis(Medical Image Analysis,2023)[**paper**](https://www.sciencedirect.com/science/article/pii/S1361841523000889)<br>
 * 半监督超图Dual semi-supervised hypergraph regular multi-view NMF with anchor graph embedding(2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S0950705124012966)<br>
 * Mitigating impacts of hyperedge heterogeneity on semi-supervised hypergraph contrastive learning(Neurocomputing,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015358)<br>
 * UniG-Encoder: A universal feature encoder for graph and hypergraph node classification(Pattern Recognition,2023)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008129)<br>
 * HyperDNE: Enhanced hypergraph neural network for dynamic network embedding(Neurocomputing,2023)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231223000504)<br>
+* An Approximate Blow-up Lemma for Sparse Hypergraphs(Procedia Computer Science,2021)[**paper**](https://www.sciencedirect.com/science/article/pii/S1877050921021876)<br>
 * The fuzzy hypergraph neural network model based on sparse k-nearest neighborhood granule超边建模(Applied Soft Computing,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1568494625000328)<br>
 ### ACM Digital Library<br>
 * Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
