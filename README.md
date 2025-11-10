@@ -11,11 +11,12 @@
 * Improving Hypergraph Attention and Hypergraph Convolution Networks(ITK,2020)[**paper**](https://ieeexplore.ieee.org/document/9345609)<br>
 #### 超图嵌入和数据关系
 * HyperSF: A Hypergraph Representation Learning Method Based on Structural Fusion高阶数据(ICASSP,2025)[**paper**](https://ieeexplore.ieee.org/document/10887924)<br>
-* Investigating All Uncertainties in Hypergraph Representation Learning and Inference(TFUZZ,2025)[**paper**](https://ieeexplore.ieee.org/document/11115980)<br>
+* Investigating All Uncertainties in Hypergraph Representation Learning and Inference(TFUZZ,2025)[**paper**](https://ieeexplore.ieee.org/document/11115980)
+  999<br>
 * Heterogeneous Hypergraph Embedding for Node Classification in Dynamic Networks(TAI,2024)[**paper**](https://ieeexplore.ieee.org/document/10648981)<br>
 * Visualization and Extraction of Important Structural Changes via Dynamic Hypergraph Embedding(WI-ITA,2022)[**paper**](https://ieeexplore.ieee.org/document/10102028)<br>
 * Data Representation by Joint Hypergraph Embedding and Sparse Coding (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9141415)<br>
-<br>
+999<br>
 * The Dual- Intent Group Recommendation Combining Hypergraph Convolution and Channel Attention推荐(ICDSCA,2024)[**paper**](https://ieeexplore.ieee.org/document/10859456)<br>
 * Cascading Hypergraph Convolution Networks for Multi-Behavior Sequential Recommendation*(BESC,2024)[**paper**](https://ieeexplore.ieee.org/document/10780584)<br>
 * Bilateral Sequential Hypergraph Convolution Network for Reciprocal Recommendation(ICDM,2023)[**paper**](https://ieeexplore.ieee.org/document/10415725)<br>
