@@ -2,7 +2,10 @@
 ## 知识超图表示<br>
 ***
 ### IEEE Xplore<br>
+* HyperKAN: Hypergraph Representation Learning with Kolmogorov-Arnold Networks(ICASSP,2025)[**paper**](https://ieeexplore.ieee.org/document/10889520)<br>
+* Hypergraph Representation Learning from Noisy Node Attributes(ICIST,2024)[**paper**](https://ieeexplore.ieee.org/document/10805382)<br>
 #### 超图神经网络<br>
+* Kernelized Hypergraph Neural Networks(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11063418)<br>
 * HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10436025)<br>
 * An Efficient Multi-View Heterogeneous Hypergraph Convolutional Network for Heterogeneous Information Network Representation Learning(TBDATA,2024)[**paper**](https://ieeexplore.ieee.org/document/10634788)<br>
 * HGNN+: General Hypergraph Neural Networks (TPAMI, 2022)[**paper**](https://ieeexplore.ieee.org/document/9795251)<br>
@@ -12,15 +15,18 @@
 #### 超图嵌入和数据关系
 * HyperSF: A Hypergraph Representation Learning Method Based on Structural Fusion高阶数据(ICASSP,2025)[**paper**](https://ieeexplore.ieee.org/document/10887924)<br>
 * Investigating All Uncertainties in Hypergraph Representation Learning and Inference(TFUZZ,2025)[**paper**](https://ieeexplore.ieee.org/document/11115980)<br>
+* Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs(TAI,2024)[**paper**](https://ieeexplore.ieee.org/document/10820547)<br>
 * Heterogeneous Hypergraph Embedding for Node Classification in Dynamic Networks(TAI,2024)[**paper**](https://ieeexplore.ieee.org/document/10648981)<br>
 * Visualization and Extraction of Important Structural Changes via Dynamic Hypergraph Embedding(WI-ITA,2022)[**paper**](https://ieeexplore.ieee.org/document/10102028)<br>
 * Data Representation by Joint Hypergraph Embedding and Sparse Coding (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9141415)<br>
 999<br>
 * The Dual- Intent Group Recommendation Combining Hypergraph Convolution and Channel Attention推荐(ICDSCA,2024)[**paper**](https://ieeexplore.ieee.org/document/10859456)<br>
 * Cascading Hypergraph Convolution Networks for Multi-Behavior Sequential Recommendation*(BESC,2024)[**paper**](https://ieeexplore.ieee.org/document/10780584)<br>
+* Sequential Patterns Unveiled: A Novel Hypergraph Convolution Approach for Dynamic User Preference Analysis(IJCNN,2024)[**paper**](https://ieeexplore.ieee.org/document/10650082)<br>
 * Bilateral Sequential Hypergraph Convolution Network for Reciprocal Recommendation(ICDM,2023)[**paper**](https://ieeexplore.ieee.org/document/10415725)<br>
 * Multi-Channel Hypergraph Convolution Group Recommendation with Member Information Enhancement(2023)[**paper**](https://ieeexplore.ieee.org/document/10466931)<br>
 * Efficient Point-of-Interest Recommendation Services With Heterogenous Hypergraph Embedding推荐(TSC,2022)[**paper**](https://ieeexplore.ieee.org/document/9809922)<br>
+* Hypergraph Convolutional Network for Group Recommendation(ICDM,2021)[**paper**](https://ieeexplore.ieee.org/document/9679118)<br>
 * DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node Classification based on Multi-View Learning and Density Awareness节点分类(IJCNN,2023)[**paper**](https://ieeexplore.ieee.org/document/10191471)<br>
 999<br>
 * Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
@@ -32,7 +38,6 @@
 * Multi-Behavior Hypergraph Contrastive Learning for Session-Based Recommendation (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10816604)<br>
 * Y. Zhang, S. Du, Y. Feng, S. Ying and Y. Gao. Reinterpreting Hypergraph Kernels: Insights Through Homomorphism Analysis(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11159289)<br>
 * J. Zhang et al. A Unified Random Walk, Its Induced Laplacians and Spectral Convolutions for Deep Hypergraph Learning(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11103747)<br>
-* Y. Feng, Y. Zhang, S. Ying, S. Du and Y. Gao. Kernelized Hypergraph Neural Networks(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11063418)<br>
 * Hypergraph Self-supervised Learning with Sampling-efficient Signals (IJCAI, 2024)[**paper**](https://www.ijcai.org/proceedings/2024/486)<br>
 * N. Yin et al. Messages are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-Series Forecasting(TPAMI, 2024)[**paper**](https://ieeexplore.ieee.org/document/10314020)<br>
 * CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10478209)<br>
