@@ -11,8 +11,7 @@
 * Improving Hypergraph Attention and Hypergraph Convolution Networks(ITK,2020)[**paper**](https://ieeexplore.ieee.org/document/9345609)<br>
 #### 超图嵌入和数据关系
 * HyperSF: A Hypergraph Representation Learning Method Based on Structural Fusion高阶数据(ICASSP,2025)[**paper**](https://ieeexplore.ieee.org/document/10887924)<br>
-* Investigating All Uncertainties in Hypergraph Representation Learning and Inference(TFUZZ,2025)[**paper**](https://ieeexplore.ieee.org/document/11115980)
-  999<br>
+* Investigating All Uncertainties in Hypergraph Representation Learning and Inference(TFUZZ,2025)[**paper**](https://ieeexplore.ieee.org/document/11115980)<br>
 * Heterogeneous Hypergraph Embedding for Node Classification in Dynamic Networks(TAI,2024)[**paper**](https://ieeexplore.ieee.org/document/10648981)<br>
 * Visualization and Extraction of Important Structural Changes via Dynamic Hypergraph Embedding(WI-ITA,2022)[**paper**](https://ieeexplore.ieee.org/document/10102028)<br>
 * Data Representation by Joint Hypergraph Embedding and Sparse Coding (TKDE, 2022)[**paper**](https://ieeexplore.ieee.org/document/9141415)<br>
@@ -23,7 +22,7 @@
 * Multi-Channel Hypergraph Convolution Group Recommendation with Member Information Enhancement(2023)[**paper**](https://ieeexplore.ieee.org/document/10466931)<br>
 * Efficient Point-of-Interest Recommendation Services With Heterogenous Hypergraph Embedding推荐(TSC,2022)[**paper**](https://ieeexplore.ieee.org/document/9809922)<br>
 * DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node Classification based on Multi-View Learning and Density Awareness节点分类(IJCNN,2023)[**paper**](https://ieeexplore.ieee.org/document/10191471)<br>
-<br>
+999<br>
 * Adaptive Neural Message Passing for Inductive Learning on Hypergraphs (TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/10612216)<br>
 * S. Mo, X. Teng, K. Wu, J. Liu and K. Yuan. A Universal Subhypergraph-Assisted Embedding Framework for Both Homogeneous and Heterogeneous Networks(TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/11045888)<br>
 * HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding (TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10845179)<br>
