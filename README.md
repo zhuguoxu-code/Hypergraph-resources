@@ -6,7 +6,7 @@
 * Be Reliable: An Interpretable Attribute-Oriented Representation Learning Framework(TNNLS,2025)[**paper**](https://ieeexplore.ieee.org/document/11219320)<br>
 * Hypergraph Collaborative Filtering With Adaptive Augmentation of Graph Data for Recommendation自监督(TKDE, 2025)[**paper**](https://ieeexplore.ieee.org/document/10877773)<br>
 * Hypergraph Representation Learning from Noisy Node Attributes(ICIST,2024)[**paper**](https://ieeexplore.ieee.org/document/10805382)<br>
-#### 超图神经网络<br>
+#### 超图卷积、神经网络<br>
 * Kernelized Hypergraph Neural Networks(TPAMI, 2025)[**paper**](https://ieeexplore.ieee.org/document/11063418)<br>
 * Hypergraph Convolutional Networks Transforming Relational Data Learning with Multi Dimensional Interaction Modeling(I2ITCON,2025)[**paper**](https://ieeexplore.ieee.org/document/11210692)<br>
 * HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10436025)<br>
@@ -30,7 +30,7 @@
 * Residual Enhanced Multi-Hypergraph Neural Network(ICIP,2021)[**paper**](https://ieeexplore.ieee.org/document/9506153)<br>
 * Hypergraph Attention Isomorphism Network by Learning Line Graph Expansion(BigData,2020)[**paper**](https://ieeexplore.ieee.org/document/9378335)<br>
 * Improving Hypergraph Attention and Hypergraph Convolution Networks(ITK,2020)[**paper**](https://ieeexplore.ieee.org/document/9345609)<br>
-#### 超图嵌入和数据关系
+#### 超图嵌入和复杂数据
 * HyperSF: A Hypergraph Representation Learning Method Based on Structural Fusion高阶数据(ICASSP,2025)[**paper**](https://ieeexplore.ieee.org/document/10887924)<br>
 * LOHA: Hypergraph Masked Autoencoder for Advanced Persistent Threat Detection(HPCC,2025)[**paper**](https://ieeexplore.ieee.org/document/11207414)<br>
 * Contrastive Hypergraph Flows with Multifaceted Gates for Cross-Domain Sequential Recommendation(TSC,2025)[**paper**](https://ieeexplore.ieee.org/document/11202422)<br>
