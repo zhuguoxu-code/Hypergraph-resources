@@ -132,15 +132,15 @@
 * The fuzzy hypergraph neural network model based on sparse k-nearest neighborhood granule超边建模(Applied Soft Computing,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1568494625000328)<br>
 ***
 ### ACM Digital Library<br>
-* Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, and Guandong Xu. HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
+* HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
 * HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714549)<br>
 * Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
-Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, and Zhen Cui. MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(MMHCL,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
-* Zhongtian Sun, Anoushka Harit, Jongmin Yu, Jingyun Wang, and Pietro Liò. Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
+* MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(MMHCL,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
+* Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
 * Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(TRS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
-* Jiecheng Li, Xudong Luo, Guangquan Lu, and Shichao Zhang. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
-* Anchen Li, Bo Yang, Huan Huo, Farookh Hussain, and Guandong Xu. Hypercomplex Knowledge Graph-Aware Recommendation(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730001)<br>
-* Fangfang Li, Huihui Zhang, Wei Li, and Wei Wu. Heterogeneous Graph Embedding Made More Practical(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3729993)<br>
+* Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
+* Hypercomplex Knowledge Graph-Aware Recommendation(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730001)<br>
+* Heterogeneous Graph Embedding Made More Practical(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3729993)<br>
 * Hierarchical Structure Construction on Hypergraphs (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679765)<br>
 * Hyperedge Importance Estimation via Identity-aware Hypergraph Attention Network (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679685)<br>
 * DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657699)<br>
