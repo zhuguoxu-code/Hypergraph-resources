@@ -132,16 +132,33 @@
 * The fuzzy hypergraph neural network model based on sparse k-nearest neighborhood granule超边建模(Applied Soft Computing,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1568494625000328)<br>
 ***
 ### ACM Digital Library<br>
+* A Survey on Hypergraph Representation Learning综述(ACM Computing Surveys,2023)[**paper**](https://dl.acm.org/doi/10.1145/3605776)<br>
+#### 超图神经网络
+* D-HAT: Dynamic Hypergraph Representation Learning with Attention-Based Multi-Level Hypergraph Sampling(CIKM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3746252.3761102)<br>
 * HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge(SIGIR,2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730002)<br>
 * HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714549)<br>
-* Alessia Antelmi, Gennaro Cordasco, Daniele De Vinco, Valerio Di Pasquale, Mirko Polato, and Carmine Spagnuolo. Hypergraph Motif Representation Learning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
+* Hypergraph Motif Representation Learning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709274)<br>
 * MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation(MMHCL,2025)[**paper**](https://dl.acm.org/doi/10.1145/3762665)<br>
-* Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
 * Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(TRS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
+* Disentangled Contrastive Hypergraph Learning for Next POI Recommendation(SIGIR,2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657726)<br>
+* Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation(SIGIR,2022)[**paper**](https://dl.acm.org/doi/10.1145/3477495.3531794)<br>
+* Hypergraph Convolutional Recurrent Neural Network(KDD,2020)[**paper**](https://dl.acm.org/doi/10.1145/3394486.3403389)<br>
+<br>
 * Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
+* Self-supervised Time-aware Heterogeneous Hypergraph Learning for Dynamic Graph-level Classification(WSDM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701551.3703504)<br>
+* Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709195)<br>
+* HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714549)<br>
+* Enhancing E-commerce Representation Learning via Hypergraph Contrastive Learning and Interpretable LLM-Driven Analysis(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3717579)<br>
+* Advanced Hypergraph Mining for Web Applications Using Sphere Neural Networks(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701716.3715577)<br>
+* Unified Heterogeneous Hypergraph Construction for Incomplete Multimedia Recommendation(TIS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3745020)<br>
+* Multi-Channel Hypergraph Contrastive Learning for Matrix Completion(TIS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3768319)<br>
+* Towards Unified Representation Learning for Career Mobility Analysis with Trajectory Hypergraph(TIS,2024)[**paper**](https://dl.acm.org/doi/10.1145/3651158)<br>
+* Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709327)<br>
 * Hypercomplex Knowledge Graph-Aware Recommendation(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3730001)<br>
 * Heterogeneous Graph Embedding Made More Practical(SIGIR, 2025)[**paper**](https://dl.acm.org/doi/10.1145/3726302.3729993)<br>
+* Understanding User Perspectives for MOOC Quality Evaluation with Hypergraph Learning(TKDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3749845)<br>
 * Hierarchical Structure Construction on Hypergraphs (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679765)<br>
+* A Novel Multi-view Hypergraph Adaptive Fusion Approach for Representation Learning(SENSYS,2024)[**paper**](https://dl.acm.org/doi/10.1145/3698387.3700000)<br>
 * Hyperedge Importance Estimation via Identity-aware Hypergraph Attention Network (CIKM, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3627673.3679685)<br>
 * DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657699)<br>
 * Multi-view Mixed Attention for Contrastive Learning on Hypergraphs (SIGIR, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657897)<br>
@@ -153,6 +170,8 @@
 * Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations(TKDD,2024)[**paper**](https://dl.acm.org/doi/10.1145/3653976)<br>
 * Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction (KDD, 2024)[**paper**](https://dl.acm.org/doi/10.1145/3637528.3672041)<br>
 * Temporal and Joint Topology-Refined Hypergraph Convolution Networks for Skeletal Action Recognition应用(AIBDF,2024)[**paper**](https://dl.acm.org/doi/10.1145/3718491.3718493)<br>
+* Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation(SIGIR,2023)[**paper**](https://dl.acm.org/doi/10.1145/3539618.3591737)<br>
+* Next Basket Recommendation with Intent-aware Hypergraph Adversarial Network(SIGIR,2023)[**paper**](https://dl.acm.org/doi/10.1145/3539618.3591742)<br>
 * Online Course Recommendation with Hypergraph-based Multi-Channel Feature Fusion(AIPR,2023)[**paper**](https://dl.acm.org/doi/10.1145/3641584.3641809)<br>
 * Intra and Inter Domain HyperGraph Convolutional Network for Cross-Domain Recommendation(WWW,2023)[**paper**](https://dl.acm.org/doi/10.1145/3543507.3583402)<br>
 * MHG-ERC: Multi-hypergraph Feature Aggregation Network for Emotion Recognition in Conversations(2023)[**paper**](https://dl.acm.org/doi/10.1145/3622935)<br>
@@ -166,6 +185,7 @@
 * Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion (CIKM, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557447)<br>
 * Chunyu Wei, Jian Liang, Bing Bai, and Di Liu. Dynamic Hypergraph Learning for Collaborative Filtering. In Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management(CIKM, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557301)<br>
 * Hypergraph Convolution on Nodes-Hyperedges Network for Semi-Supervised Node Classification(TKDD,2022)[**paper**](https://dl.acm.org/doi/10.1145/3494567)<br>
+* Self-Supervised Hypergraph Transformer for Recommender Systems(KDD,2022)[**paper**](https://dl.acm.org/doi/10.1145/3534678.3539473)<br>
 * Explainable Link Prediction in Knowledge Hypergraphs(CIKM,2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557316)<br>
 * Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks (WWW, 2021)[**paper**](https://dl.acm.org/doi/10.1145/3442381.3449954)<br>
 * Next-item Recommendation with Sequential Hypergraphs(SIGIR,2020)[**paper**](https://dl.acm.org/doi/10.1145/3397271.3401133)<br>
