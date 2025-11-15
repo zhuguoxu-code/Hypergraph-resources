@@ -190,6 +190,20 @@
 * Next-item Recommendation with Sequential Hypergraphs(SIGIR,2020)[**paper**](https://dl.acm.org/doi/10.1145/3397271.3401133)<br>
 * Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network(TOIS,2020)[**paper**](https://dl.acm.org/doi/10.1145/3423322)<br>
 ***
+### Springer<br>
+*Knowledge-aware recommendation based on hypergraph representation learning and transformer model optimization( Applied Intelligence ,2025)[**paper**](https://link.springer.com/article/10.1007/s10489-025-06257-z)<br>
+* Hyperbolic multi-channel hypergraph convolutional neural network based on multilayer hypergraph( Scientific Reports ,2025)[**paper**](https://link.springer.com/article/10.1038/s41598-025-08594-y)<br>
+* Self-supervised hypergraph structure learning( Artificial Intelligence Review ,2025)[**paper**](https://link.springer.com/article/10.1007/s10462-025-11199-6)<br>
+* Graph Anomaly Detection Based on Dynamic Hypergraph Neural Network( Cloud and Network Computing ,2025)[**paper**](https://link.springer.com/chapter/10.1007/978-981-95-0129-8_21)<br>
+* Contrasting Transformer and Hypergraph Network for Cooperative Sequential Recommendation( Database Systems for Advanced Applications,2025)[**paper**](https://link.springer.com/chapter/10.1007/978-981-97-5555-4_6)<br>
+* Student academic performance prediction via hypergraph and TabNet应用( Journal of Big Data,2025)[**paper**](https://link.springer.com/article/10.1186/s40537-025-01170-1)<br>
+* Self-supervised multi-hop heterogeneous hypergraph embedding with informative pooling for graph-level classification( Knowledge and Information Systems,2024)[**paper**](https://link.springer.com/article/10.1007/s10115-024-02259-4)<br>
+* Hypergraph projection enhanced collaborative filtering( International Journal of Data Science and Analytics ,2024)[**paper**](https://link.springer.com/article/10.1007/s41060-024-00508-x)<br>
+* Multiple hypergraph convolutional network social recommendation using dual contrastive learning( Data Mining and Knowledge Discovery ,2024)[**paper**](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
+* Hypergraph-Enhanced Self-supervised Heterogeneous Graph Representation Learning(Web and Big Data ,2024)[**paper**](https://link.springer.com/chapter/10.1007/978-981-97-2387-4_19)<br>
+* Multi-task Learning of Heterogeneous Hypergraph Representations in LBSNs(Advanced Data Mining and Applications,2024)[**paper**](https://link.springer.com/chapter/10.1007/978-981-96-0821-8_11)<br>
+* Hypergraph network embedding for community detection( The Journal of Supercomputing ,2024)[**paper**](https://link.springer.com/article/10.1007/s11227-024-06003-1)<br>
+***
 ### Openreview<br>
 * Hypergraph Dynamic System (ICLR, 2024)[**paper**](https://openreview.net/forum?id=NLbRvr840Q)<br>
 * HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs(ICLR, 2024)[**paper**](https://openreview.net/forum?id=DZUzOKE6og)<br>
