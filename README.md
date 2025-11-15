@@ -11,7 +11,7 @@
 * Hypergraph Convolutional Networks Transforming Relational Data Learning with Multi Dimensional Interaction Modeling(I2ITCON,2025)[**paper**](https://ieeexplore.ieee.org/document/11210692)<br>
 * HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion (TKDE, 2024)[**paper**](https://ieeexplore.ieee.org/document/10436025)<br>
 * Attribute-Enhanced Hypergraph Neural Networks for Session-based Recommendation(IJCNN,2024)[**paper**](https://ieeexplore.ieee.org/document/10651027)<br>
-* Cross-view Self-Supervised Learning with Graph Convolutional Networks for Group Recommendation(ICPADS,2023)(https://ieeexplore.ieee.org/document/10476246)<br>
+* Cross-view Self-Supervised Learning with Graph Convolutional Networks for Group Recommendation(ICPADS,2023)[**paper**](https://ieeexplore.ieee.org/document/10476246)<br>
 * RAHG: A Role-Aware Hypergraph Neural Network for Node Classification in Graphs(TNSE,2023)[**paper**](https://ieeexplore.ieee.org/document/10039676)<br>
 * GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning(CVPR,2022)[**paper**](https://ieeexplore.ieee.org/document/9879068)<br>
 * Enhanced Contrastive Hypergraph Information Bottleneck Learning for Item Recommendation(IFEEA,2024)[**paper**](https://ieeexplore.ieee.org/document/10878563)<br>
