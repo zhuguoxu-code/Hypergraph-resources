@@ -229,7 +229,7 @@
 #### 应用结合<br>
 * Multiview hyperedge-aware hypergraph embedding learning for multisite, multiatlas fMRI based functional connectivity network analysis(Medical Image Analysis,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S1361841524000690)<br>
 * Deciphering circRNA-drug sensitivity associations via global-local heterogeneous matrix factorization and hypergraph contrastive learning(Expert Systems with Applications,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417425021670)<br>
-* Cross-view hypergraph contrastive learning for attribute-aware recommendation(Information Processing & Management,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S030645732400061X)<br>
-
+* Cross-view hypergraph contrastive learning for attribute-aware recommendation(Information Processing & Management,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S030645732400061X)<br><br>
+* Social recommendation based on contrastive learning of hypergraph convolution(2025)[**paper**](https://kns.cnki.net/kcms2/article/abstract?v=9jT59j8Ji07DkWlZrzp3NhH0h5aaXu2cE_H_dY52eCR6U0V3pOD1Zn0WXDtC1P5PSZwO0QRZtYXu4JV-6JzFz7OPJ1Be24nN7xhs00gFnAARjknECCDZv7GlLfg2VlqpA5Hw09nndt78W1o_FKAgVYxk-yK_ILR4DAGSNsWL3Myeg9O6fbQcEZeZ3KLFBj9As6bv7Js5gHQ=&uniplatform=NZKPT)<br>
 
 
