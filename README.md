@@ -89,8 +89,8 @@
 * Gated Dual Hypergraph Convolutional Networks for Recommendation with Self-supervised Learning自监督(IJCNN,2022)[**paper**](https://ieeexplore.ieee.org/document/9892859)<br>
 ***
 ### Science Direct<br>
-* 专家混合增强Enhanced recommendation with hypergraph mixture of experts(Expert Systems with Applications,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417425029483)<br>
-* 知识蒸馏RHNN-IoT: A robust IoT intrusion detection framework based on reinforced hypergraph representation learning(Future Generation Computer Systems,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0167739X25005060)<br>
+* Enhanced recommendation with hypergraph mixture of experts专家混合增强(Expert Systems with Applications,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417425029483)<br>
+* RHNN-IoT: A robust IoT intrusion detection framework based on reinforced hypergraph representation learning知识蒸馏(Future Generation Computer Systems,2026)[**paper**](https://www.sciencedirect.com/science/article/pii/S0167739X25005060)<br>
 * A novel hypergraph neural network combining multi-view learning with density awareness多视图密度感知超图神经网络（MD-HGNN）-新型GNN模型(Pattern Recognition,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004352)<br>
 * DHHNN: A Dynamic Hypergraph Hyperbolic Neural Network based on variational autoencoder for multimodal data integration and node classification双曲嵌入、变分自编码器(inffus,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000892)<br>
 * Hypergraph neural network with state space models for node classification(engappai,2025)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029537)<br>
@@ -101,13 +101,13 @@
 #### 超图卷积<br>
 * Adaptive hybrid spatial hypergraph convolution module with data embedding optimization for stock ranking prediction(Physica A: Statistical Mechanics and its Applications，2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0378437125006983)<br>
 * Hypergraph representation learning for identifying circRNA-disease associations(Pattern Recognition,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0031320325004959)<br>
-* 超图卷积Diversified recommendation with weighted hypergraph embedding: Case study in music(2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S092523122401676X)<br>
+* Diversified recommendation with weighted hypergraph embedding: Case study in music超图卷积(2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S092523122401676X)<br>
 * Multi-view heterogeneous graph learning with compressed hypergraph neural networks(Neural Networks,2024)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004866)<br>
 * The Structure-sharing Hypergraph Reasoning Attention Module for CNNs(Expert Systems with Applications,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417424021079)<br>
 * Light dual hypergraph convolution for collaborative filtering(Pattern Recognition,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S0031320324003479)<br>
 * Collaborative contrastive learning for hypergraph node classification(Pattern Recognition,2023)[**paper**](https://www.sciencedirect.com/science/article/pii/S0031320323006933)<br>
 * Hypergraph convolution and hypergraph attention(Pattern Recognition,2020)[**paper**](https://www.sciencedirect.com/science/article/pii/S0031320320304404)<br>
-* 全局信息Hypergraph node representation learning with one-stage message passing(Neural Networks,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0893608025008548)<br>
+* Hypergraph node representation learning with one-stage message passing(Neural Networks,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0893608025008548)<br>
 #### 超图嵌入及复杂数据关系<br>
 * Multimetric hypergraph embedding for dimensionality reduction in rotor fault diagnosis（Advanced Engineering Informatics,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034625003805)<br>
 * Hypergraph representation learning based on fuzzy attention network(Applied Soft Computing,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S1568494625009135)<br>
@@ -116,7 +116,7 @@
 * Generalised tensor-based hypergraph attention network（knowledge-based systems,2025）[**paper**](https://www.sciencedirect.com/science/article/pii/S0950705125017691)<br>
 * NeSyKHG: Neuro-Symbolic Knowledge Hypergraphs(procs,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S187705092400797X)<br>
 * Scientific collaborator recommendation via hypergraph embedding(Information Processing & Management,2025)[**paper**](https://www.sciencedirect.com/science/article/pii/S0306457325003644)<br>
-* 超图嵌入AHFormer: Hypergraph embedding coding transformer and adaptive aggregation network for intelligent fault diagnosis under noise interference（2024）[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034624001666)<br>
+* AHFormer: Hypergraph embedding coding transformer and adaptive aggregation network for intelligent fault diagnosis under noise interference超图嵌入(2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S1474034624001666)<br>
 * Learning higher-order features for relation prediction in knowledge hypergraph(Knowledge-Based Systems,2024)[**paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512400145X)<br>
 * HHGNN: Hyperbolic Hypergraph Convolutional Neural Network based on variational autoencoder(Neurocomputing,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S0925231224009962)<br>
 * Higher-order knowledge-enhanced recommendation with heterogeneous hypergraph multi-attention异构超图及高阶交互(Information Sciences,2024)[**paper**](https://www.sciencedirect.com/science/article/pii/S002002552401079X)<br>
