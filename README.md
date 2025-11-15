@@ -142,8 +142,7 @@
 * Heterogeneous Hypergraph Neural Network for Social Recommendation using Attention Network(TRS,2025)[**paper**](https://dl.acm.org/doi/10.1145/3613964)<br>
 * Disentangled Contrastive Hypergraph Learning for Next POI Recommendation(SIGIR,2024)[**paper**](https://dl.acm.org/doi/10.1145/3626772.3657726)<br>
 * Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation(SIGIR,2022)[**paper**](https://dl.acm.org/doi/10.1145/3477495.3531794)<br>
-* Hypergraph Convolutional Recurrent Neural Network(KDD,2020)[**paper**](https://dl.acm.org/doi/10.1145/3394486.3403389)<br>
-<br>
+* Hypergraph Convolutional Recurrent Neural Network(KDD,2020)[**paper**](https://dl.acm.org/doi/10.1145/3394486.3403389)<br><br>
 * Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement(WWW,2025)[**paper**](https://dl.acm.org/doi/10.1145/3696410.3714907)<br>
 * Self-supervised Time-aware Heterogeneous Hypergraph Learning for Dynamic Graph-level Classification(WSDM,2025)[**paper**](https://dl.acm.org/doi/10.1145/3701551.3703504)<br>
 * Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning(KDD,2025)[**paper**](https://dl.acm.org/doi/10.1145/3690624.3709195)<br>
