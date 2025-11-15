@@ -182,7 +182,7 @@
 * A Survey on Hypergraph Representation Learning (ACM Computing Surveys, 2023)[**paper**](https://dl.acm.org/doi/full/10.1145/3605776)<br>
 * Hypergraph Contrastive Collaborative Filtering (SIGIR, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3477495.3532058)<br>
 * Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion (CIKM, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557447)<br>
-* Chunyu Wei, Jian Liang, Bing Bai, and Di Liu. Dynamic Hypergraph Learning for Collaborative Filtering. In Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management(CIKM, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557301)<br>
+* Dynamic Hypergraph Learning for Collaborative Filtering. In Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management(CIKM, 2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557301)<br>
 * Hypergraph Convolution on Nodes-Hyperedges Network for Semi-Supervised Node Classification(TKDD,2022)[**paper**](https://dl.acm.org/doi/10.1145/3494567)<br>
 * Self-Supervised Hypergraph Transformer for Recommender Systems(KDD,2022)[**paper**](https://dl.acm.org/doi/10.1145/3534678.3539473)<br>
 * Explainable Link Prediction in Knowledge Hypergraphs(CIKM,2022)[**paper**](https://dl.acm.org/doi/10.1145/3511808.3557316)<br>
@@ -191,7 +191,7 @@
 * Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network(TOIS,2020)[**paper**](https://dl.acm.org/doi/10.1145/3423322)<br>
 ***
 ### Springer<br>
-*Knowledge-aware recommendation based on hypergraph representation learning and transformer model optimization( Applied Intelligence ,2025)[**paper**](https://link.springer.com/article/10.1007/s10489-025-06257-z)<br>
+* Knowledge-aware recommendation based on hypergraph representation learning and transformer model optimization( Applied Intelligence ,2025)[**paper**](https://link.springer.com/article/10.1007/s10489-025-06257-z)<br>
 * Hyperbolic multi-channel hypergraph convolutional neural network based on multilayer hypergraph( Scientific Reports ,2025)[**paper**](https://link.springer.com/article/10.1038/s41598-025-08594-y)<br>
 * Self-supervised hypergraph structure learning( Artificial Intelligence Review ,2025)[**paper**](https://link.springer.com/article/10.1007/s10462-025-11199-6)<br>
 * Graph Anomaly Detection Based on Dynamic Hypergraph Neural Network( Cloud and Network Computing ,2025)[**paper**](https://link.springer.com/chapter/10.1007/978-981-95-0129-8_21)<br>
